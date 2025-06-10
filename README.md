@@ -42,4 +42,4 @@ Ensure your system supports:
 To compile this code on a Linux-based system (e.g., BeagleBone), run:
 
 ```bash
-g++ beagle_test.cpp -o beagle_test
+g++ BBB_rdSerial.cpp -o BBB_rdSerial
